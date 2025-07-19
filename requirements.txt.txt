@@ -1,6 +1,1 @@
-fastapi
-uvicorn
-openai
-langchain-community
-faiss-cpu
-python-multipart
+
